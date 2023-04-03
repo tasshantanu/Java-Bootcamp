@@ -1,8 +1,13 @@
 // I'm a comment. I have no impact on your code.
 
-public class FirstProgram {
-    public static void main(String[] args) {
-        System.out.println("Printing is Fun!");
+//task 1
+public class FirstProgram { 
+    
+    //task 2
+    public static void main(String[] args) {     
+        
+        //task 3
+        System.out.println("Printing is Fun!");   
         System.out.println("Java > Python");
         System.out.println("I spilled Java all over my paper.");
         System.out.println("My dog ate my Java");
